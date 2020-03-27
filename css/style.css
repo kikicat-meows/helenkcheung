@@ -756,6 +756,9 @@ fieldset {
     color: #425BB5;
 }
 
+.email {
+    color: inherit;
+}
 
 /* Responsive media queries
 ==================================================*/
