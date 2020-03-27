@@ -445,6 +445,13 @@ a.active {
     padding: 0.25em 1em 0.2em 1em;
 }
 
+.education {
+    color: red;
+}
+
+.education::before {
+    background: red;
+}
 
 /* projects section
 ==================================================*/
